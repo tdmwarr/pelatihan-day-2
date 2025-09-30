@@ -3,3 +3,12 @@ body {
   font-family: Aria, sans-serif;
   color: #191970;
 }
+.porto {
+  width: 300px;
+  marigin: 50px auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+  
